@@ -9,6 +9,9 @@
     <script src="./libs/jQuery/jquery.js"></script>
     <script src="./js/my.js"></script>
     <script src="./libs/bootstrap-3.3.7/dist/js/bootstrap.js"> </script>
+    <script src="./libs/lightbox/js/lightbox.js"> </script>
+    <script src="//code.jquery.com/jquery-3.5.1.min.js"></script>
+
     <title>Document</title>
     <script>
         $("document").ready(function () {
@@ -19,7 +22,6 @@
 <body>
 <div class="jumbotron text-center">
     <h1>Pirmā mājas lapa no nulles</h1>
-    <p>Resize this responsive page to see the effect!</p>
 </div>
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
@@ -31,35 +33,32 @@
             </button>
             <a class="navbar-brand" href="index.html"><img src="" alt=""></a>
         </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav  navbar-right">
-                <li  class="active"><a href="#">Jaunumi lente</a></li>
+        <div class="collapse navbar-collapse " id="myNavbar">
+            <ul class="nav navbar-nav navbar-center">
+                <li  class="active">
+                <li><a href="">Jaunumi</a></li>
                 <li><a href="">Par mums</a></li>
+                <li><a href="">Galerija</a></li>
+                <li><a href="">Saziņa</a></li>
+                <li><a href="">Kontakti</a></li>
             </ul>
         </div>
     </div>
 </nav>
 <div class="contaier-fluid" id="">
-    <div class="row">
-		<div class = "col-md-2">
-			<p>Piemērs</p>
-		</div>
-		<div class="col-md-8">
-			<div class="row">
-				<div class="col-md-3 col-sm-6">1</div>
-				<div class="col-md-3 col-sm-6">2</div>
-				<div class="col-md-3 col-sm-6">3</div>
-				<div class="col-md-3 col-sm-6">4</div>
-			</div>
-		</div>
-		<div class="col-md-2">
-			<p>Piemērs</p>
-		</div>
-        <div class = "col-md-6">
-            <p>Mana mājas lapa strādā!</p>
+    <p class="text-center"
+            <p>JAVA – ir pati populārākā programmēšanas valoda pasaulē! Vairāk nekā 9 miljonu programmētāju izmanto JAVA katru dienu, izveidojot lielas finanšu sistēmas, WEB aplikācijas, spēles un arī Android aplikācijas.
+                Mēs esam izstrādājuši apmācību kursu, lai Jūs veiksmīgi varētu apgūt JAVA programmēšanas prasmes. Šīs programmas galvenais mērķis –  palīdzēt ikvienam interesentam, bez programmēšanas pieredzes un zināšanām, sasniegt Java Trainee/Junior Developer līmeni, atvērt ceļu uz aizraujošu programmatūras izveidošanas pasauli! Java programma sastāv no sekojošiem kursiem:
+                Java 1 – Introduction to Java
+                Java 2 – Agile Web Development
+                Java 3 – Enterprise Application Development
+                Java 4 – Microservices, Architecture and Environment
+                Lai, veiksmīgi iegūt prakses vietu vai pirmo darba vietu Java Trainee / Junior Developer pozicijā, ir nepieciešams pabeigt pirmos divus Java kursus.</p>
         </div>
+<div class="container">
+    <div class="main">
+        <a href="./images/pic.jpg"
     </div>
-
-</div>
+    </div>
 </body>
 </html>
