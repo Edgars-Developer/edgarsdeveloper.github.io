@@ -51,7 +51,11 @@
 		<div class="col-md-2">
 			<p>Piemērs</p>
 		</div>
+        <div class = "col-md-4">
+            <p>Mana mājas lapa strādā!</p>
+        </div>
     </div>
+
 </div>
 </body>
 </html>
