@@ -17,6 +17,10 @@
     </script>
 </head>
 <body>
+<div class="jumbotron text-center">
+    <h1>Pirmā mājas lapa no nulles</h1>
+    <p>Resize this responsive page to see the effect!</p>
+</div>
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -51,7 +55,7 @@
 		<div class="col-md-2">
 			<p>Piemērs</p>
 		</div>
-        <div class = "col-md-4">
+        <div class = "col-md-6">
             <p>Mana mājas lapa strādā!</p>
         </div>
     </div>

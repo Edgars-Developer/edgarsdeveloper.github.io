@@ -128,3 +128,6 @@ p {
 .showCode {
  display: block;
 }
+.col-lg-6{
+ background-color: #0f0f0f;
+}
