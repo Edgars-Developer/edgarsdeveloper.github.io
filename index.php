@@ -29,8 +29,8 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav  navbar-right">
-                <li  class="active"><a href="#">Jaunumi</a></li>
-                <li><a href="">Kontakti</a></li>
+                <li  class="active"><a href="#">Jaunumi lente</a></li>
+                <li><a href="">Par mums</a></li>
             </ul>
         </div>
     </div>
@@ -38,18 +38,18 @@
 <div class="contaier-fluid" id="">
     <div class="row">
 		<div class = "col-md-2">
-			<p>Piemers</p>
+			<p>Piemērs</p>
 		</div>
 		<div class="col-md-8">
 			<div class="row">
-				<div class="col-md-3 col-sm-6">A</div>
-				<div class="col-md-3 col-sm-6">B</div>
-				<div class="col-md-3 col-sm-6">C</div>
-				<div class="col-md-3 col-sm-6">D</div>
+				<div class="col-md-3 col-sm-6">1</div>
+				<div class="col-md-3 col-sm-6">2</div>
+				<div class="col-md-3 col-sm-6">3</div>
+				<div class="col-md-3 col-sm-6">4</div>
 			</div>
 		</div>
 		<div class="col-md-2">
-			<p>Piemers</p>
+			<p>Piemērs</p>
 		</div>
     </div>
 </div>
