@@ -12,7 +12,7 @@
     <script src="./libs/lightbox/js/lightbox.js"> </script>
     <script src="//code.jquery.com/jquery-3.5.1.min.js"></script>
 
-    <title>Document</title>
+    <title>webtest</title>
     <script>
         $("document").ready(function () {
           
@@ -56,8 +56,7 @@
                 Lai, veiksmīgi iegūt prakses vietu vai pirmo darba vietu Java Trainee / Junior Developer pozicijā, ir nepieciešams pabeigt pirmos divus Java kursus.</p>
         </div>
 <div class="container">
-    <div class="main">
-        <a href="./images/pic.jpg"
+    <img src="images/javascript-illustration.png" class="mx-auto d-block" style="width:100%">
     </div>
     </div>
 </body>
