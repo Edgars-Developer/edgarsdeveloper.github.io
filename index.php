@@ -12,6 +12,7 @@
     <script src="./libs/lightbox/js/lightbox.js"> </script>
     <script src="//code.jquery.com/jquery-3.5.1.min.js"></script>
 
+
     <title>webtest</title>
     <script>
         $("document").ready(function () {
@@ -31,7 +32,6 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html"><img src="" alt=""></a>
         </div>
         <div class="collapse navbar-collapse " id="myNavbar">
             <ul class="nav navbar-nav navbar-center">
