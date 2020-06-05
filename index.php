@@ -56,8 +56,7 @@
                 Lai, veiksmīgi iegūt prakses vietu vai pirmo darba vietu Java Trainee / Junior Developer pozicijā, ir nepieciešams pabeigt pirmos divus Java kursus.</p>
         </div>
 <div class="container">
-    <img src="images/javascript-illustration.png" class="mx-auto d-block" style="width:100%">
-    </div>
+    <img src="images/javascript-illustration.png" class="mx-auto d-block" style="width:100%" alt=Chania">">
     </div>
 </body>
 </html>
