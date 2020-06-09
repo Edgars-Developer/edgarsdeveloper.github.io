@@ -1,0 +1,106 @@
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/inspectionProfiles/Project_Default.xml	(date 1591739156006)
++++ .idea/inspectionProfiles/Project_Default.xml	(date 1591739156006)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
++  </profile>
++</component>
+\ No newline at end of file
+Index: .idea/webtest.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/webtest.iml	(date 1591739156069)
++++ .idea/webtest.iml	(date 1591739156069)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="library" name="jquery-1.11.1" level="application" />
++    <orderEntry type="library" name="jquery-3.5.1" level="application" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1591739156069)
++++ .idea/misc.xml	(date 1591739156069)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="JavaScriptSettings">
++    <option name="languageLevel" value="ES6" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1591739156084)
++++ .idea/modules.xml	(date 1591739156084)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/webtest.iml" filepath="$PROJECT_DIR$/.idea/webtest.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1591739156084)
++++ .idea/vcs.xml	(date 1591739156084)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/jsLinters/jshint.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/jsLinters/jshint.xml	(date 1591739156131)
++++ .idea/jsLinters/jshint.xml	(date 1591739156131)
+@@ -0,0 +1,16 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="JSHintConfiguration" version="2.10.2" use-config-file="true" use-custom-config-file="true" custom-config-file-path="$PROJECT_DIR$/libs/bootstrap-3.3.7/js/tests/unit/.jshintrc">
++    <option bitwise="true" />
++    <option browser="true" />
++    <option curly="true" />
++    <option eqeqeq="true" />
++    <option forin="true" />
++    <option maxerr="50" />
++    <option noarg="true" />
++    <option noempty="true" />
++    <option nonew="true" />
++    <option strict="true" />
++    <option undef="true" />
++  </component>
++</project>
+\ No newline at end of file
