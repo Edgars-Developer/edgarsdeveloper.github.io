@@ -13,6 +13,7 @@
     <script src="//code.jquery.com/jquery-3.5.1.min.js"></script>
 
 
+
     <title>webtest</title>
     <script>
         $("document").ready(function () {
@@ -22,7 +23,7 @@
 </head>
 <body>
 <div class="jumbotron text-center">
-    <h1>Pirmā mājas lapa no nulles</h1>
+    <h1>Pirmā mājas lapa izmantojot Bootstrap</h1>
 </div>
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
