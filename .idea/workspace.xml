@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eae21bf5-4d72-4405-b87f-0972df38e1b9" name="Default Changelist" comment="add">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="eae21bf5-4d72-4405-b87f-0972df38e1b9" name="Default Changelist" comment="change text" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <workItem from="1591739152269" duration="386000" />
       <workItem from="1591739588850" duration="173000" />
       <workItem from="1591739774564" duration="179000" />
-      <workItem from="1591739971353" duration="1473000" />
+      <workItem from="1591739971353" duration="1573000" />
     </task>
     <task id="LOCAL-00001" summary="add main files">
       <created>1591296822412</created>
@@ -199,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591740960210</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="change text">
+      <created>1591741524313</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591741524313</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +235,8 @@
     <MESSAGE value="d" />
     <MESSAGE value="added html file" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="change text" />
+    <option name="LAST_COMMIT_MESSAGE" value="change text" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="168" key="#PHP" timestamp="1591298280080">
@@ -266,9 +271,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1591297664939" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1591739723966">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1591741525803">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591739723966" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591741525803" />
   </component>
 </project>
