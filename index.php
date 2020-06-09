@@ -21,6 +21,7 @@
 </head>
 <body>
 <div class="jumbotron text-center">
+
     <h1>Pirmā mājas lapa, izmantojot Bootstrap</h1>
 </div>
 <nav class="navbar navbar-inverse navbar-fixed-top">
