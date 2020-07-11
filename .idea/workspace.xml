@@ -19,14 +19,66 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eY0Eq8InCkT3wKIFVLQ0Oxqki8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\webtest" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eae21bf5-4d72-4405-b87f-0972df38e1b9" name="Default Changelist" comment="l;" />
+      <created>1594483109580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594483109580</updated>
+      <workItem from="1594483112010" duration="382000" />
+    </task>
+    <task id="LOCAL-00001" summary="l;">
+      <created>1594483152679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594483152679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="l;" />
+    <option name="LAST_COMMIT_MESSAGE" value="l;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="61" y="60" width="1158" height="570" key="DiffContextDialog" timestamp="1594483075024">
@@ -37,5 +89,13 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="422" y="101" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1594483097947" />
+    <state x="150" y="0" key="SettingsEditor" timestamp="1594483221232">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="150" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1594483221232" />
+    <state x="234" y="79" key="Vcs.Push.Dialog.v2" timestamp="1594483165850">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="234" y="79" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1594483165850" />
   </component>
 </project>
