@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eae21bf5-4d72-4405-b87f-0972df38e1b9" name="Default Changelist" comment="change text" />
+    <list default="true" id="eae21bf5-4d72-4405-b87f-0972df38e1b9" name="Default Changelist" comment="Added Template_class, created form and &quot;post&quot; metod">
+      <change afterPath="$PROJECT_DIR$/connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2020_00_29_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_06_2020_00_29__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Template_class.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Template_class.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +52,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\webtest" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\webtest\images" />
       <recent name="C:\wamp64\www\webtest\libs\lightbox\images" />
@@ -75,7 +87,12 @@
       <workItem from="1591739152269" duration="386000" />
       <workItem from="1591739588850" duration="173000" />
       <workItem from="1591739774564" duration="179000" />
-      <workItem from="1591739971353" duration="1573000" />
+      <workItem from="1591739971353" duration="1989000" />
+      <workItem from="1591781397311" duration="12878000" />
+      <workItem from="1591867615755" duration="14052000" />
+      <workItem from="1592173351600" duration="905000" />
+      <workItem from="1594481103345" duration="615000" />
+      <workItem from="1594481921256" duration="428000" />
     </task>
     <task id="LOCAL-00001" summary="add main files">
       <created>1591296822412</created>
@@ -203,7 +220,35 @@
       <option name="project" value="LOCAL" />
       <updated>1591741524313</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="change text">
+      <created>1591741601340</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591741601340</updated>
+    </task>
+    <task id="LOCAL-00020" summary="delete html">
+      <created>1591741856927</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591741856927</updated>
+    </task>
+    <task id="LOCAL-00021" summary="change the text">
+      <created>1591741928541</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591741928541</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added Template_class, created form and &quot;post&quot; metod">
+      <created>1591893584525</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591893584525</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,21 +281,32 @@
     <MESSAGE value="added html file" />
     <MESSAGE value="add" />
     <MESSAGE value="change text" />
-    <option name="LAST_COMMIT_MESSAGE" value="change text" />
+    <MESSAGE value="delete html" />
+    <MESSAGE value="change the text" />
+    <MESSAGE value="Added Template_class, created form and &quot;post&quot; metod" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Template_class, created form and &quot;post&quot; metod" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="168" key="#PHP" timestamp="1591298280080">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="667" y="168" key="#PHP/0.0.1920.1050@0.0.1920.1050" timestamp="1591298280080" />
+    <state x="336" y="366" key="#SQL_Dialects" timestamp="1591879751526">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="336" y="366" key="#SQL_Dialects/0.0.1920.1050@0.0.1920.1050" timestamp="1591879751526" />
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591879745351">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591879745351" />
     <state x="590" y="252" key="#com.intellij.ide.util.ExportDialog" timestamp="1591739535846">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="590" y="252" key="#com.intellij.ide.util.ExportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591739535846" />
-    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591371593416">
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591890965481">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591371593416" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591890965481" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1591739414700">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -263,17 +319,21 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="598" y="286" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591740837716" />
-    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1591297962313">
+    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1591890930076">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591297962313" />
+    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591890930076" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1591297664939">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1591297664939" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1591741525803">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1591893590298">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591741525803" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1591893590298" />
+    <state x="136" y="247" key="run.anything.popup" timestamp="1591872709718">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="136" y="247" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1591872709718" />
   </component>
 </project>
