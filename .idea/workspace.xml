@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eae21bf5-4d72-4405-b87f-0972df38e1b9" name="Default Changelist" comment="l;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="61" y="60" width="1158" height="570" key="DiffContextDialog" timestamp="1594483075024">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="61" y="60" width="1158" height="570" key="DiffContextDialog/0.0.1280.690@0.0.1280.690" timestamp="1594483075024" />
+    <state x="422" y="101" key="FileChooserDialogImpl" timestamp="1594483097947">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="422" y="101" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1594483097947" />
+  </component>
+</project>
